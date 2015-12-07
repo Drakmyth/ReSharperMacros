@@ -142,6 +142,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ControllerResourceFromClassName.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
