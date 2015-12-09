@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Drakmyth.ReSharper.Macros</id>
+    <version>1.0.0</version>
+    <title>ReSharperMacros</title>
+    <authors>Drakmyth</authors>
+    <owners>Drakmyth</owners>
+    <licenseUrl>https://github.com/Drakmyth/ReSharperMacros/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/Drakmyth/ReSharperMacros</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A number of custom macros that I have found useful.</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Macro</tags>
+    <dependencies>
+      <dependency id="Wave" version="[4.0]" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\Drakmyth.ReSharper.Macros.dll" target="DotFiles\" />
+  </files>
+</package>
