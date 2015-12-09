@@ -145,12 +145,13 @@
     <Compile Include="AddPrefixMacro.cs" />
     <Compile Include="AddSuffixMacro.cs" />
     <Compile Include="RemovePrefixMacro.cs" />
+    <Compile Include="LowercaseMacro.cs" />
+    <Compile Include="UppercaseMacro.cs" />
     <Compile Include="RemoveSuffixMacro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="ReSharperMacros.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Antlr2.Tools.2.7.6.4\build\Antlr2.Tools.targets" Condition="Exists('..\packages\Antlr2.Tools.2.7.6.4\build\Antlr2.Tools.targets')" />

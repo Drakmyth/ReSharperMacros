@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Drakmyth.ReSharper.Macros</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <title>ReSharperMacros</title>
     <authors>Drakmyth</authors>
     <owners>Drakmyth</owners>
@@ -10,7 +10,12 @@
     <projectUrl>https://github.com/Drakmyth/ReSharperMacros</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A number of custom macros that I have found useful.</description>
-    <releaseNotes>Initial Release</releaseNotes>
+    <releaseNotes>
+		v1.1.0
+		- New Macros
+		-- Value of another variable in all lower case
+		-- Value of another variable in all upper case
+	</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>Macro</tags>
     <dependencies>
@@ -18,6 +23,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\Drakmyth.ReSharper.Macros.dll" target="DotFiles\" />
+    <file src="ReSharperMacros\bin\Release\Drakmyth.ReSharper.Macros.dll" target="DotFiles\" />
   </files>
 </package>

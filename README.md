@@ -2,8 +2,8 @@
 ===========
 This ReSharper 10 plugin adds a number of custom macros that I have found useful.
 
-* Latest Release Version: **v1.0.0**
-* Current Development Version: **v1.0.0**
+* Latest Release Version: **v1.1.0**
+* Current Development Version: **v1.1.0**
  
 Macros
 ------
@@ -13,6 +13,8 @@ The following macros are added to ReSharper by this plugin:
 * Value of another variable with prefix removed
 * Value of another variable with suffix added
 * Value of another variable with suffix removed
+* Value of another variable in all upper case
+* Value of another variable in all lower case
 
 Issues
 ------
