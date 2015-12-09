@@ -2,11 +2,20 @@
 ===========
 This ReSharper 10 plugin adds a number of custom macros that I have found useful.
 
-* Latest Release Version: **Unreleased**
-* Current Development Version: **v0.0.1**
+* Latest Release Version: **v1.0.0**
+* Current Development Version: **v1.0.0**
+ 
+Macros
+------
+The following macros are added to ReSharper by this plugin:
+
+* Value of another variable with prefix added
+* Value of another variable with prefix removed
+* Value of another variable with suffix added
+* Value of another variable with suffix removed
 
 Issues
---------------------
+------
 If you come across something that seems like a bug, please report it here. Make sure to follow these guidelines to ensure your report isn't closed as "Invalid":
 
 * Search to see if someone else has already reported the bug. Duplicate reports just slow down getting things fixed.
@@ -21,10 +30,6 @@ Have an idea for a macro that would fit well in this plugin? Awesome! File an is
 Contributions
 -------------
 This plugin is open source! That means if you'd like to try your hand at fixing a bug or implementing a feature, please do so! Head over to the Issues page and look for any open issues tagged with the "Accepted" label. Create a branch, work on it, then submit a pull request.
-
-Version History
----------------
-* v1.0.0 - TBD
 
 License
 -------
