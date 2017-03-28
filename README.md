@@ -1,6 +1,6 @@
 ﻿ReSharperMacros
 ===========
-This ReSharper 10 plugin adds a number of custom macros that I have found useful.
+This ReSharper plugin adds a number of custom macros that I have found useful.
 
 * Latest Release Version: **v1.4.0**
 * Current Development Version: **v1.4.0**
