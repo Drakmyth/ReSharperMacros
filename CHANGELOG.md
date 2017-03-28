@@ -1,5 +1,7 @@
 CHANGELOG
 ===========
+* v1.4.0 - <sub>March 28, 2017</sub>
+	* Updated to ReSharper 2016.3
 * v1.3.0 - <sub>November 22, 2016</sub>
 	* Updated to ReSharper 2016.2
 * v1.2.0 - <sub>April 21, 2016</sub>
