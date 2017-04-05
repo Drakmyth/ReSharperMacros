@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Drakmyth.ReSharper.Macros</id>
-    <version>1.4.0</version>
+    <version>1.5.0</version>
     <title>ReSharperMacros</title>
     <authors>Drakmyth</authors>
     <owners>Drakmyth</owners>
@@ -11,13 +11,13 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A number of custom macros that I have found useful.</description>
     <releaseNotes>
-		v1.4.0
-		- Updated to ReSharper 2016.3
+		v1.5.0
+		- Updated to ReSharper 2017.1
 	</releaseNotes>
     <copyright>Copyright 2015-2017</copyright>
     <tags>Macro</tags>
     <dependencies>
-      <dependency id="Wave" version="[7.0]" />
+      <dependency id="Wave" version="[8.0]" />
     </dependencies>
   </metadata>
   <files>

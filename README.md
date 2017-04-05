@@ -2,8 +2,7 @@
 ===========
 This ReSharper plugin adds a number of custom macros that I have found useful.
 
-* Latest Release Version: **v1.4.0**
-* Current Development Version: **v1.4.0**
+* Latest Release Version: **v1.5.0**
 
 ReSharper Gallery Link: [https://resharper-plugins.jetbrains.com/packages/Drakmyth.ReSharper.Macros](https://resharper-plugins.jetbrains.com/packages/Drakmyth.ReSharper.Macros)
  
